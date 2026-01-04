@@ -1,0 +1,22 @@
+{
+    "anime1": {
+        "likes": 10,
+        "dislikes": 2,
+        "voted_users": [
+            "user1",
+            "user2"
+        ]
+    },
+    "anime2": {
+        "likes": 5,
+        "dislikes": 1,
+        "voted_users": []
+    },
+    "694d5f0f329a5": {
+        "likes": 1,
+        "dislikes": 0,
+        "voted_users": [
+            "MODE_SAD"
+        ]
+    }
+}

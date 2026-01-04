@@ -1,0 +1,57 @@
+[
+    {
+        "id": "694ed291724aa",
+        "judul": "Abc",
+        "genres": [
+            "Action"
+        ],
+        "deskripsi": "Cekk",
+        "url": "https:\/\/drive.google.com\/file\/d\/1uVE9GJLTVL9j4pl5GoOdQMQS3dgvOuBs\/preview?usp=drivesdk",
+        "banner_url": "https:\/\/i.imgur.com\/6xQnZpH.png"
+    },
+    {
+        "id": "anime1",
+        "judul": "Contoh Anime 1",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "deskripsi": "Deskripsi anime contoh ini sangat menarik dan penuh aksi.",
+        "url": "https:\/\/drive.google.com\/file\/d\/ID\/preview",
+        "banner_url": "https:\/\/example.com\/banner.jpg"
+    },
+    {
+        "id": "anime2",
+        "judul": "Contoh Anime 2",
+        "genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "deskripsi": "Anime romantis dan lucu untuk semua kalangan.",
+        "url": "https:\/\/drive.google.com\/file\/d\/ID2\/preview",
+        "banner_url": "https:\/\/example.com\/banner2.jpg"
+    },
+    {
+        "id": "694d5a54098b1",
+        "judul": "Testing",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Isekai",
+            "Reincarnation"
+        ],
+        "deskripsi": "Hanya testing",
+        "url": "https:\/\/drive.google.com\/file\/d\/1uVE9GJLTVL9j4pl5GoOdQMQS3dgvOuBs\/preview?usp=drivesdk",
+        "banner_url": "https:\/\/i.imgur.com\/6xQnZpH.png"
+    },
+    {
+        "id": "694d5f0f329a5",
+        "judul": "Tess",
+        "genres": [
+            "Magic"
+        ],
+        "deskripsi": "Tess",
+        "url": "https:\/\/drive.google.com\/file\/d\/1uVE9GJLTVL9j4pl5GoOdQMQS3dgvOuBs\/preview?usp=drivesdk",
+        "banner_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/93\/Potion_Wagami_o_Tasukeru_Anime_Logo.png"
+    }
+]

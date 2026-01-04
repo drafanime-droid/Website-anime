@@ -1,0 +1,17 @@
+{
+  "anime1": [
+    {
+      "user": "MODE_SAD",
+      "title": "owner",
+      "comment": "Anime bagus sekali!",
+      "timestamp": "2023-10-01 12:00:00"
+    },
+    {
+      "user": "SALIONIMEOFICIAL",
+      "title": "admin",
+      "comment": "Setuju, rekomended!",
+      "timestamp": "2023-10-01 12:05:00"
+    }
+  ],
+  "anime2": []
+}
